@@ -1,0 +1,137 @@
+[8419214447] Get access => 200
+[8419214691] Get access => 200
+[8419214446] Get access => 200
+MajorLogin => 200 len=1250
+[8419214691] JWT len=814 | ts=1794092508 | acct=19050208976
+MajorLogin => 200 len=1245
+[8419214447] JWT len=809 | ts=1794092508 | acct=19050208123
+MajorLogin => 200 len=1250
+[8419214446] JWT len=814 | ts=1794092508 | acct=19050208124
+GetLoginData => 200 len=1217
+[8419214691] ONLINE | sk7ghos206 | UID=19050208976 | chat=98.98.162.79:39801
+[GHOST] try ONLINE 98.98.162.76:39699 mode=online
+GetLoginData => 200 len=1264
+[8419214447] ONLINE | sk7ghos10 | UID=19050208123 | chat=98.98.162.67:39801
+[GHOST] try ONLINE 98.98.162.78:39699 mode=online
+[ONLINE] join sent team=0937050
+[ONLINE] join sent team=0937050
+GetLoginData => 200 len=1236
+[8419214446] ONLINE | sk7ghos195 | UID=19050208124 | chat=98.98.162.79:39801
+[GHOST] try ONLINE 98.98.162.76:39699 mode=online
+[ONLINE] no valid team/squad in packets (team may be empty/closed)
+[GHOST] try CHAT 98.98.162.79:39801 mode=chat
+[ONLINE] join sent team=0937050
+[CHAT] join sent team=0937050
+[CHAT] no valid team/squad in packets (team may be empty/closed)
+[GHOST] no team data extracted on any server
+[ONLINE] no valid team/squad in packets (team may be empty/closed)
+[GHOST] try CHAT 98.98.162.67:39801 mode=chat
+[CHAT] join sent team=0937050
+[CHAT] no valid team/squad in packets (team may be empty/closed)
+[GHOST] no team data extracted on any server
+[ONLINE] no valid team/squad in packets (team may be empty/closed)
+[GHOST] try CHAT 98.98.162.79:39801 mode=chat
+[CHAT] join sent team=0937050
+[CHAT] no valid team/squad in packets (team may be empty/closed)
+[GHOST] no team data extracted on any server
+[8419214699] Get access => 200
+[8419214875] Get access => 200
+MajorLogin => 200 len=1250
+[8419214875] JWT len=814 | ts=1794092595 | acct=19050209719
+MajorLogin => 200 len=1245
+[8419214699] JWT len=809 | ts=1794092595 | acct=19050209019
+GetLoginData => 200 len=1162
+GetLoginData => 200 len=1202
+[8419214875] ONLINE | sk7ghos736 | UID=19050209719 | chat=98.98.162.67:39801
+[GHOST] try ONLINE 98.98.162.78:39699 mode=online
+[8419214699] ONLINE | sk7ghos94 | UID=19050209019 | chat=98.98.162.69:39801
+[GHOST] try ONLINE 98.98.162.73:39699 mode=online
+[ONLINE] join sent team=2191050
+[ONLINE] join sent team=2191050
+[8419215139] Get access => 200
+[ONLINE] no valid team/squad in packets (team may be empty/closed)
+[GHOST] try CHAT 98.98.162.69:39801 mode=chat
+[ONLINE] no valid team/squad in packets (team may be empty/closed)
+[GHOST] try CHAT 98.98.162.67:39801 mode=chat
+[CHAT] join sent team=2191050
+[CHAT] no valid team/squad in packets (team may be empty/closed)
+[GHOST] no team data extracted on any server
+[CHAT] join sent team=2191050
+[CHAT] no valid team/squad in packets (team may be empty/closed)
+[GHOST] no team data extracted on any server
+MajorLogin => 200 len=1250
+[8419215139] JWT len=814 | ts=1794092615 | acct=19050210685
+GetLoginData => 200 len=1222
+[8419215139] ONLINE | sk7ghos771 | UID=19050210685 | chat=98.98.162.67:39801
+[GHOST] try ONLINE 98.98.162.82:39699 mode=online
+[ONLINE] join sent team=2191050
+[ONLINE] no valid team/squad in packets (team may be empty/closed)
+[GHOST] try CHAT 98.98.162.67:39801 mode=chat
+[CHAT] join sent team=2191050
+[CHAT] no valid team/squad in packets (team may be empty/closed)
+[GHOST] no team data extracted on any server
+[8419215144] Get access => 200
+[8419215529] Get access => 200
+[8419215491] Get access => 200
+MajorLogin => 200 len=1250
+[8419215144] JWT len=814 | ts=1794092663 | acct=19050210686
+MajorLogin => 200 len=1250
+[8419215529] JWT len=814 | ts=1794092663 | acct=19050211716
+MajorLogin => 200 len=1250
+[8419215491] JWT len=814 | ts=1794092663 | acct=19050211587
+GetLoginData => 200 len=1262
+[8419215144] ONLINE | sk7ghos767 | UID=19050210686 | chat=98.98.162.79:39801
+[GHOST] try ONLINE 98.98.162.80:39699 mode=online
+GetLoginData => 200 len=1224
+[8419215491] ONLINE | sk7ghos641 | UID=19050211587 | chat=98.98.162.69:39801
+[GHOST] try ONLINE 98.98.162.73:39699 mode=online
+GetLoginData => 200 len=1179
+[8419215529] ONLINE | sk7ghos115 | UID=19050211716 | chat=98.98.162.66:39801
+[GHOST] try ONLINE 98.98.162.83:39699 mode=online
+[ONLINE] join sent team=2594750
+[ONLINE] join sent team=2594750
+[ONLINE] join sent team=2594750
+[ONLINE] no valid team/squad in packets (team may be empty/closed)
+[GHOST] try CHAT 98.98.162.69:39801 mode=chat
+[ONLINE] no valid team/squad in packets (team may be empty/closed)
+[GHOST] try CHAT 98.98.162.79:39801 mode=chat
+[ONLINE] no valid team/squad in packets (team may be empty/closed)
+[GHOST] try CHAT 98.98.162.66:39801 mode=chat
+[CHAT] join sent team=2594750
+[CHAT] join sent team=2594750
+[CHAT] no valid team/squad in packets (team may be empty/closed)
+[GHOST] no team data extracted on any server
+[CHAT] no valid team/squad in packets (team may be empty/closed)
+[GHOST] no team data extracted on any server
+[CHAT] join sent team=2594750
+[CHAT] no valid team/squad in packets (team may be empty/closed)
+[GHOST] no team data extracted on any server
+[8419214691] Get access => 200
+[8419214446] Get access => 200
+[8419214447] Get access => 200
+MajorLogin => 200 len=1250
+MajorLogin => 200 len=1250
+[8419214446] JWT len=814 | ts=1794131227 | acct=19050208124
+[8419214691] JWT len=814 | ts=1794131227 | acct=19050208976
+MajorLogin => 200 len=1245
+[8419214447] JWT len=809 | ts=1794131227 | acct=19050208123
+GetLoginData => 200 len=1220
+[8419214446] ONLINE | sk7ghos195 | UID=19050208124 | chat=98.98.162.79:39801
+[GHOST] try ONLINE 98.98.162.76:39699 mode=online
+GetLoginData => 200 len=1262
+GetLoginData => 200 len=1172
+[8419214691] ONLINE | sk7ghos206 | UID=19050208976 | chat=98.98.162.79:39801
+[GHOST] try ONLINE 98.98.162.76:39699 mode=online
+[8419214447] ONLINE | sk7ghos10 | UID=19050208123 | chat=98.98.162.67:39801
+[GHOST] try ONLINE 98.98.162.78:39699 mode=online
+[ONLINE] join sent team=1201567
+[ONLINE] recv +15274B total=15274 head=f10000000163
+[ONLINE] join sent team=1201567
+[ONLINE] recv +12501B total=12501 head=e0000000047a
+[ONLINE] hit opcode=0500 target=13578863635
+[ONLINE] hit opcode=0500 target=13578863635
+[ONLINE] join sent team=1201567
+[ONLINE] hit opcode=0500 target=13578863635
+[ONLINE] GHOST x3 sent target=13578863635 name=sk7ff 
+[ONLINE] GHOST x3 sent target=13578863635 name=sk7ff 
+[ONLINE] GHOST x3 sent target=13578863635 name=sk7ff 
